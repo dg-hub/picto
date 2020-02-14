@@ -1,0 +1,14 @@
+{
+    "name": "picto-nz",
+    "description": "Example App",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": ""
+    }
+}
